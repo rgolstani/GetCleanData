@@ -8,3 +8,5 @@ This data set come from the accelerometer and gyroscope 3-axial raw signals tAcc
 4- sitting
 5- standing
 6- laying
+Data includes a set for training and another set for testing.
+First step is to read the two sets in R. Then we need to merge all two sets together to make a single data frame.
