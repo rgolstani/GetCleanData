@@ -13,5 +13,6 @@ First step is to read the two sets in R. Then we need to merge all two sets toge
 __________________________________
 Here the zip data sets get downloaded first and in R studio we call them to unzip.
 The step after unzip is reading the file in R.
-Because the data is speadt out in different files for training and testing 
+Because the data is spreadt out in different files for training and testing 
 We can merge them all to gether.
+__________________________________
