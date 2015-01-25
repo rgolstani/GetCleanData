@@ -8,4 +8,6 @@ Activity;integer:
 -----------------------------------
 subjid; interger: id 1-30 
 ------------------------------------
-Acceleration
+Accelerator data
+------------------------------------
+ gyroscope  data
