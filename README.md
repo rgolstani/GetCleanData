@@ -10,3 +10,8 @@ This data set come from the accelerometer and gyroscope 3-axial raw signals tAcc
 6- laying
 Data includes a set for training and another set for testing.
 First step is to read the two sets in R. Then we need to merge all two sets together to make a single data frame.
+__________________________________
+Here the zip data sets get downloaded first and in R studio we call them to unzip.
+The step after unzip is reading the file in R.
+Because the data is speadt out in different files for training and testing 
+We can merge them all to gether.
